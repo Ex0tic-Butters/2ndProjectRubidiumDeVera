@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <!--menu tab-->
+    <div class="filler">
+    <div id="menu">
+    <nav>
+    <span class="logo">logo</span><span><b>Website</b></span><span class="tab">Recent News</span><span class="tab">Top Stories</span><span class="tab">Home</span>
+    </nav>
+    <br>
+    <br>
+    <div class="video">
+      <iframe width="400px" src="https://www.youtube.com/embed/YJWSAJjkTsI?autoplay=1&mute=1">
+      </iframe>
+    </div>
+    <h1>Definitely not an article template</h1>
+    <div>
+    <table>
+      <tr>
+        <td valign=top>Table of Contents
+         <aside>
+           <nav>
+             <ul>
+               <li><a href="#topic1">Topic 1</a></li>
+               <li><a href="#topic2">Topic 2</a></li>
+               <li><a href="#topic3">Topic 3</a></li>
+             </ul>
+           </nav>
+        </aside>
+        </td>
+        <td>
+          <h2>Article</h2>
+          <section>
+          <h3 id="topic1">Topic 1</h3>
+          <figure>
+            <img src="https://i.ibb.co/7YcbCMx/filler-photo-icon.png" alt="no image yet" width=400px>
+            <figcaption>Fig. 1 - Whatever this is</figcaption>
+          </figure>
+          <p>______________________________________________________________</p>
+          <p>______________________________________________________________</p>
+          <p>__________________________________________________________.</p>
+          <br>
+          <br>
+          </section>
+          <section>
+          <h3 id="topic2">Topic 2</h3>
+          <figure>
+            <img src="https://i.ibb.co/7YcbCMx/filler-photo-icon.png" alt="no image yet" width=400px>
+            <figcaption>Fig. 2 - Whatever this is</figcaption>
+          </figure>
+          <p>______________________________________________________________</p>
+          <p>______________________________________________________________</p>
+          <p>__________________________________________________________.</p>
+          <br>
+          <br>
+          </section>
+          <section>
+          <h3 id="topic3">Topic 3</h3>
+          <figure>
+            <img src="https://i.ibb.co/7YcbCMx/filler-photo-icon.png" alt="no image yet" width=400px>
+            <figcaption>Fig. 3 - Whatever this is</figcaption>
+          </figure>
+          <p>______________________________________________________________</p>
+          <p>______________________________________________________________</p>
+          <p>__________________________________________________________.</p>
+          <br>
+          <br>
+          </section>
+          </div>
+        </td>
+      </tr>
+    </table>
+    </div>
+  </body>
+</html>
